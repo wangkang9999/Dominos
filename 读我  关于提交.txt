@@ -1,0 +1,12 @@
+提交的文件都在src里面 6个   
+运行方式  
+首先运行SeverPlayer1.java文件  Player1 就绪 并建立服务器,
+然后运行ClientPlayer2.java文件 Player2就绪 成为客户端,
+然后游戏.
+
+
+1.Run the SeverPlayer1.java first, then Player1 is ready and created the sever
+
+2.Then run the ClientPlayer2.java, Player2 is ready and be client
+
+3.Begin the game
